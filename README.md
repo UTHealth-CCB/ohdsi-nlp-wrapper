@@ -49,10 +49,9 @@ For cTAKES wrapper, edit this file:
 
 ./lib/ctakes/resources/org/apache/ctakes/dictionary/lookup/fast/cTakesHsql.xml
 
-<property key="umlsUser" value="YOUR_UMLS_USER_NAME"/>
+property key="umlsUser" value="YOUR_UMLS_USER_NAME"
 
-<property key="umlsPass" value="YOUR_UMLS_USER_PASSWORD"/>
-
+property key="umlsPass" value="YOUR_UMLS_USER_PASSWORD"
 
 
 For CLAMP wrapper, write them in the java code:
