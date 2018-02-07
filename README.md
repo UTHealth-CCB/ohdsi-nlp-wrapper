@@ -73,4 +73,6 @@ For CLAMP wrapper, users must obtain an SN code from CLAMP website and input the
 
 Please visit this page and submit an request for Clamp Command line version 1.4.0.
 
+https://clamp.uth.edu/get-clamp.php
+
 
