@@ -54,6 +54,7 @@ For cTAKES wrapper, edit this file:
 <property key="umlsPass" value="YOUR_UMLS_USER_PASSWORD"/>
 
 
+
 For CLAMP wrapper, write them in the java code:
 
 ClampWrapper clamp = new ClampWrapper( "resources/clamp/clamp-ner-attribute.pipeline", 
