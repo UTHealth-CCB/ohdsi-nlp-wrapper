@@ -32,14 +32,17 @@ ctakes-wrapper
 
 --src
 
+
 Here are download links
 
 clamp wrapper resources:
+https://drive.google.com/open?id=1uzvWZPebq3DYZNPFNm2Ise354IWuyADo
 
 ctake wrapper resources:
+https://drive.google.com/open?id=1qYqK5FZm5zJgTttCXxXd_Ufa0ffmKjAc
 
 metamap lite wrapper resources:
-
+https://drive.google.com/open?id=1sjUad3KYbBtI1iFz3iw_LW4fdtu4q1UZ
 
 ## set UMLS account
 For cTAKES wrapper, edit this file:
@@ -49,6 +52,7 @@ For cTAKES wrapper, edit this file:
 <property key="umlsUser" value="YOUR_UMLS_USER_NAME"/>
 
 <property key="umlsPass" value="YOUR_UMLS_USER_PASSWORD"/>
+
 
 For CLAMP wrapper, write them in the java code:
 
@@ -61,6 +65,7 @@ ClampWrapper clamp = new ClampWrapper( "resources/clamp/clamp-ner-attribute.pipe
   "resources/clamp/umls_index/", 
   
   "resources/clamp/rxnorm_index/" );
+  
 
 ## set CLAMP SN
 
